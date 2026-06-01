@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Banner Personal](./assets/banner-cristofer.png)
+
 
 # 👋 Hola, soy Cristofer Díaz Álvarez
 
