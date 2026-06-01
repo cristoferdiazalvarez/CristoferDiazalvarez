@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/56885df057eb8d7990141f71/e60c8742-520c-4861-b44c-2045e7514a38/digital_landscape_creative_tech_banner_cristofer_diaz.jpg" alt="Cristofer Diaz - Tech Banner" width="100%">
+  <img src="https://images.squarespace-cdn.com/content/v1/56885df057eb8d7990141f71/e60c8742-520c-4861-b44c-2045e7514a38/digital_landscape_creative_tech_banner_cristofer_diaz.jpg" alt="Cristofer Diaz - Tech Banner" width="25">
 </p>
 
 <!-- VISITAS & SALUDO ANIMADO -->
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AnandChowdhary/hover-cards/main/assets/wave.gif" width="30px"> 
+  <img src="https://raw.githubusercontent.com/AnandChowdhary/hover-cards/main/assets/wave.gif" width="15px"> 
   <span>¡Hola! Soy Cristofer Diaz Alvarez</span>
 </h1>
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/lines/cream.png" width="100%">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/lines/cream.png" width="25%">
 </p>
 
 ## 💫 Sobre Mí
@@ -97,16 +97,16 @@ Soy un desarrollador web con un fuerte enfoque en la ingeniería de software mod
 ## 📊 Estadísticas Premium (Métricas de Rendimiento)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristoferDiazAlvarez&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&border_color=1F242C" alt="Estadísticas de GitHub" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristoferDiazAlvarez&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7928CA&icon_color=7928CA&text_color=FFFFFF&border_color=1F242C" alt="Lenguajes más usados" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CristoferDiazAlvarez&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&border_color=1F242C" alt="Estadísticas de GitHub" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristoferDiazAlvarez&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7928CA&icon_color=7928CA&text_color=FFFFFF&border_color=1F242C" alt="Lenguajes más usados" height="100" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferDiazAlvarez&theme=tokyonight&background=0D1117&title=00D1FF&ring=00D1FF&fire=7928CA&text=FFFFFF&border=1F242C" alt="Streak de Commits" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferDiazAlvarez&theme=tokyonight&background=0D1117&title=00D1FF&ring=00D1FF&fire=7928CA&text=FFFFFF&border=1F242C" alt="Streak de Commits" width="25%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CristoferDiazAlvarez&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Trofeos de GitHub" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CristoferDiazAlvarez&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Trofeos de GitHub" width="25%"/>
 </p>
 
 ---
